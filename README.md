@@ -8,3 +8,5 @@ Comparing the syntax of synopses in Netflix and Naver (one of the biggest web po
 ### 2. Data Analysis
 - Python 3
 - NLTK
+
+for detailed explanation: https://codlingual.tistory.com/
